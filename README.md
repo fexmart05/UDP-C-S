@@ -24,5 +24,5 @@ Per avviare la chat:
 
 ### Nota:
 
-- Entrambi il client e il server possono essere eseguiti sulla stessa macchina o su macchine diverse all'interno della stessa rete.
-- Per terminare la chat, digita "exit" nella cons
+- Entrambi, sia il client che il server possono essere eseguiti sulla stessa macchina o su macchine diverse all'interno della stessa rete.
+- Per terminare la chat, digita "exit" nella console del Client
